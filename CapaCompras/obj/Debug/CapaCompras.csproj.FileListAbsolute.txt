@@ -1,0 +1,12 @@
+D:\Cosas\Programacion\C#\Login\CapaCompras\bin\Debug\CapaCompras.dll
+D:\Cosas\Programacion\C#\Login\CapaCompras\bin\Debug\CapaCompras.pdb
+D:\Cosas\Programacion\C#\Login\CapaCompras\obj\Debug\CapaCompras.csprojAssemblyReference.cache
+D:\Cosas\Programacion\C#\Login\CapaCompras\obj\Debug\CapaCompras.csproj.CoreCompileInputs.cache
+D:\Cosas\Programacion\C#\Login\CapaCompras\obj\Debug\CapaCompras.dll
+D:\Cosas\Programacion\C#\Login\CapaCompras\obj\Debug\CapaCompras.pdb
+C:\Users\Ereso\Documents\Work\Simple-Graphic-Program\CapaCompras\bin\Debug\CapaCompras.dll
+C:\Users\Ereso\Documents\Work\Simple-Graphic-Program\CapaCompras\bin\Debug\CapaCompras.pdb
+C:\Users\Ereso\Documents\Work\Simple-Graphic-Program\CapaCompras\obj\Debug\CapaCompras.csproj.AssemblyReference.cache
+C:\Users\Ereso\Documents\Work\Simple-Graphic-Program\CapaCompras\obj\Debug\CapaCompras.csproj.CoreCompileInputs.cache
+C:\Users\Ereso\Documents\Work\Simple-Graphic-Program\CapaCompras\obj\Debug\CapaCompras.dll
+C:\Users\Ereso\Documents\Work\Simple-Graphic-Program\CapaCompras\obj\Debug\CapaCompras.pdb

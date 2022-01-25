@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "916604fb-9a92-4bd2-9abc-4e37f5c97de1": {
+      "ProjectGuid": "916604fb-9a92-4bd2-9abc-4e37f5c97de1",
+      "DisplayName": "Login",
+      "ColorIndex": 0
+    },
+    "74b868e4-dc08-443c-922e-b8dd2f2288c7": {
+      "ProjectGuid": "74b868e4-dc08-443c-922e-b8dd2f2288c7",
+      "DisplayName": "CapaCompras",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
